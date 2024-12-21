@@ -1,0 +1,6 @@
+- Skapa funktion för inlogg
+- Skapa funktion för att kunna skapa konto
+- Skapa databas för konto
+- Skapa konto med unika kontonummer
+- Funktion för att ta in och ut pengar ur konto
+- Databas för pengar
